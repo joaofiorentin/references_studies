@@ -145,16 +145,6 @@ E ah, você pode usar [essa planilha](https://docs.google.com/spreadsheets/d/1Rp
 |[Introdução à Programação com Python](https://www.twitch.tv/collections/KsRwA0OEbhd_Gw)| Curso introdutório para iniciantes em programação utilizando Python	| [Téo Me Why](twitch.tv/teomewhy) | Iniciante | 16:53 |
 | [Desbravando Pandas](https://www.twitch.tv/collections/Y1BKVydmeRe1YQ)| Treinamento de Pandas para análise e manipulação de dados	| [Téo Me Why](twitch.tv/teomewhy) | Iniciante | 12:42 |
 
-### Projetos, Equipes e Cultura
-
-#### Livros
-- [A Regra é Não Ter Regras: A Netflix e a Cultura da Reinvenção](https://amzn.to/3DSUrKS)
-- [Manual de Devops. Como Obter Agilidade, Confiabilidade e Segurança em Organizações Tecnológicas](https://amzn.to/30sAr42)
-- [O Mítico Homem-Mês. Ensaios Sobre Engenharia de Software](https://amzn.to/3yqHTcr)
-- [O projeto fênix](https://amzn.to/3pYnQOA)
-- [O projeto unicórnio](https://amzn.to/3m3oOrN)
-- [Sprint. O Método Usado no Google Para Testar e Aplicar Novas Ideias em Apenas Cinco Dias](https://amzn.to/3EZnLk3)
-
 ### Utilitários
 
 #### Livros
@@ -192,39 +182,3 @@ E ah, você pode usar [essa planilha](https://docs.google.com/spreadsheets/d/1Rp
 |[woliveiras.com.br](https://woliveiras.com.br/)|Programação|
 
 **[⬆ Voltar ao início](#teo-me-refs)**
-## Perfis
-
-Alguns perfis para acompanhar
-
-|Nome|Instagram|LinkedIn|Twitter|YouTube|Twitch|
-|:----:|:---------:|:--------:|:-------:|:-------:|:------:|
-|Adriana Silva|[@dri_chispirita](https://www.instagram.com/dri_chispirita/)|[/adrianamms](https://www.linkedin.com/in/adrianamms/)|-| [@asnrocks](https://www.youtube.com/@asnrocks)|-|
-|António Júnior|[@mentordedados](https://www.instagram.com/mentordedados/)|[/acsjunior](https://www.linkedin.com/in/acsjunior/)|-|[@mentordedados](https://www.youtube.com/@mentordedados)|-|
-|Athos Damiani|[@athosdamiani](https://www.instagram.com/athosdamiani/)|[/athosdamiani](https://www.linkedin.com/in/athosdamiani/)|[@athos_damiani](https://twitter.com/athos_damiani)|-|-|
-|Bruno Rocha|[@rochacbruno](https://www.instagram.com/rochacbruno/)|[/rochacbruno](https://www.linkedin.com/in/rochacbruno/)|[@rochacbruno](https://twitter.com/rochacbruno)|[@rochacbruno](https://www.youtube.com/@rochacbruno)|-|
-|CodeShow|[@codeshowbr](https://instagram.com/codeshowbr)|[/company/codeshow](https://www.linkedin.com/company/codeshow/)|[@codeshowbr](https://twitter.com/codeshowbr)|[@codeshowbr](https://youtube.com/CodeShowBR)|[@codeshow](https://twitch.tv/codeshow)|
-|Filipe Deschamps|[@filipedeschamps](https://www.instagram.com/filipedeschamps/)|[/filipedeschamps](https://www.linkedin.com/in/filipedeschamps/)|[@FilipeDeschamps](https://twitter.com/FilipeDeschamps)|[@FilipeDeschamps](https://www.youtube.com/@FilipeDeschamps)|-|
-|Gabs Ferreira|[@o_gabsferreira](https://www.instagram.com/o_gabsferreira/)|[/gabsferreira](https://www.linkedin.com/in/gabsferreira/)|[@o_gabsferreira](https://twitter.com/o_gabsferreira)|[@GabsFerreira](https://www.youtube.com/@GabsFerreira)|-|
-|Glaucia Lemos|[@glaucia.lemos.dev](https://www.instagram.com/glaucia.lemos.dev/)|[/glaucialemos](https://www.linkedin.com/in/glaucialemos/)|[@glaucia_lemos86](https://twitter.com/glaucia_lemos86)|[@GlauciaLemos](https://www.youtube.com/@GlauciaLemos)|-|
-|Jayme Anchante|-|[/jaymeanchante](https://www.linkedin.com/in/jaymeanchante/)|-|-|-|
-|Joao Paulo Nogueira|-|[/joaopaulonogueira](https://www.linkedin.com/in/joaopaulonogueira/)|[@joaopcnogueira](https://twitter.com/joaopcnogueira)|-|-|
-|Julio Trecenti|-|[/jtrecenti](https://www.linkedin.com/in/jtrecenti/)|[@jtrecenti](https://twitter.com/jtrecenti)|[@CursoR6](https://www.youtube.com/@CursoR6)|-|
-|Kizzy Terra|[@kizzy_terra](https://www.instagram.com/kizzy_terra/)|[/kizzyterra](https://www.linkedin.com/in/kizzyterra/)|[@kizzy_terra](https://twitter.com/kizzy_terra)|[@pgdinamica](https://www.youtube.com/@pgdinamica)|-|
-|Lucas Montano|[@lucasmontano](https://www.instagram.com/lucasmontano/)|[/lucasmontano](https://www.linkedin.com/in/lucasmontano/)|[@lucas_montano](https://twitter.com/lucas_montano)|[@LucasMontano](https://www.youtube.com/@LucasMontano)|-|
-Mario Filho|[@mariofilhoml](https://www.instagram.com/mariofilhoml/)|[/mariofilho](https://www.linkedin.com/in/mariofilho/)|[@MarioFilhoCom](https://twitter.com/MarioFilhoCom)|[@MarioFilhoML](https://www.youtube.com/@MarioFilhoML)|-|
-|Meigarom Lopes|-|[/meigarom](https://www.linkedin.com/in/meigarom/?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAAazy44B0cQNwp2I0oq0SIVQRGDQseeySkg)|[@Meigarom](https://twitter.com/Meigarom)|[@ComunidadeDS](https://www.youtube.com/@ComunidadeDS)|-|
-|Raniere Ramos|[@oestatistico](https://www.instagram.com/oestatistico/)|[/raniereramos](https://www.linkedin.com/in/raniereramos/)|[@oestatisticoweb](https://twitter.com/oestatisticoweb)|-|-|
-|Téo Calvo|[@teo.calvo](https://www.instagram.com/teo.calvo)|[/teocalvo](https://www.linkedin.com/in/teocalvo/)|[@TeoCalvo](https://twitter.com/TeoCalvo)|[@teomewhy](https://www.youtube.com/@teomewhy)|[/teomewhy](https://www.twitch.tv/teomewhy)|
-|Thiago Marques|-|[/thiagoestatidados](https://www.linkedin.com/in/thiagoestatidados/)|-|
-
-**[⬆ Voltar ao início](#teo-me-refs)**
-## Podcasts
-
-|Nome|Tema|
-|---|---|
-|[Carreira Sem Fronteiras](https://www.carreirasemfronteiras.com.br/)|Tecnologia e Carreira|
-|[DataHackers](https://open.spotify.com/show/1oMIHOXsrLFENAeM743g93)|Data Science|
-|[Depois do Café](https://open.spotify.com/show/4cqX5o40bClwqtYHv9X7Lp?si=6ml1VsFaTTCmQ5UzkxyAyg)|Tecnologia e Carreira|
-|[Hipsters Ponto Tech](https://open.spotify.com/show/2p0Vx75OmfsXktyLBuLuSf?si=4x-AM7qRTgmZKu1AR96hKQ)|Tecnologia e Carreira|
-|[Pizza de Dados](https://podcast.pizzadedados.com/)|Data Science|
-|[Quebradev](https://quebradev.com.br/)|Tecnologia e Carreira|
