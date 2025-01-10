@@ -1,5 +1,4 @@
-# Teo Me Refs
-
+# Créditos: [TéoMeWhy](https://www.twitch.tv/teomewhy)
 Repositório para divulgação de material em Data Science, Programação e Estatística.
 
 * [Primeiros passos](#primeiros-passos)
