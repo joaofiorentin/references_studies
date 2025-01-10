@@ -1,4 +1,4 @@
-# Créditos: [TéoMeWhy](https://www.twitch.tv/teomewhy)
+
 Repositório para divulgação de material em Data Science, Programação e Estatística.
 
 * [Primeiros passos](#primeiros-passos)
@@ -151,7 +151,6 @@ E ah, você pode usar [essa planilha](https://docs.google.com/spreadsheets/d/1Rp
 - [Introdução às Expressões Regulares](https://amzn.to/3ETyI6E)
 - [Git: Guia Prático](https://amzn.to/3EU4xw5)
 
-**[⬆ Voltar ao início](#teo-me-refs)**
 ## Blogs & Sites
 |Site|Tema|
 |---|---|
@@ -181,4 +180,12 @@ E ah, você pode usar [essa planilha](https://docs.google.com/spreadsheets/d/1Rp
 |[willianjusten.com.br](https://willianjusten.com.br/)|Desenvolvimento Web|
 |[woliveiras.com.br](https://woliveiras.com.br/)|Programação|
 
-**[⬆ Voltar ao início](#teo-me-refs)**
+# Créditos do material: Téo Calvo
+#### Redes sociais do Mago dos Dados 🧙: 
+[Linkedin](https://www.linkedin.com/in/teocalvo/)
+[Twitch](https://www.twitch.tv/teomewhy)
+[Instagram](https://www.instagram.com/teomewhy/)
+[Twitter](https://x.com/teomewhy)
+[Website](https://teomewhy.org/)
+
+ **[⬆ Voltar ao início](#teo-me-refs)**
